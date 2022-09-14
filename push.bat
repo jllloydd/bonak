@@ -1,10 +1,4 @@
-@echo off
-git config --global user.email "wayfivet@gmail.com"
-git config --global user.name "jllloydd"
-
-pause
-
-git remote set-url origin https://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@github.com/jllloydd/bonak.git
+git remote set-url origin https://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@github.com/jllloydd/bonak.git
 
 pause
 
