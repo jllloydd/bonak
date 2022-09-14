@@ -4,7 +4,7 @@ git config --global user.name "jllloydd"
 
 pause
 
-git remote set-url origin https://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@github.com/jllloydd/bonak.git
+git remote set-url origin https://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@github.com/jllloydd/bonak.git
 
 pause
 
