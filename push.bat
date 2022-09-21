@@ -1,4 +1,4 @@
-git remote set-url origin https://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@github.com/jllloydd/bonak.git
+git remote set-url origin https://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@github.com/jllloydd/bonak.git
 
 pause
 
